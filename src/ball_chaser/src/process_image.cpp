@@ -45,7 +45,9 @@ void process_image_callback(const sensor_msgs::Image img)
   
     for (int i = 0; i < height ; i++) {
         for (int j = 0; j < step; j++) {
-            if (img.data[i * step + j] == white_pixel) {
+            if ((img.data[i * step + j] == white_pixel) &&
+	       (img.data[i * step + j + 1] == white_pixel) &&
+               (img.data[i * step + j + 2] == white_pixel)) {
                 offset_accumulated += j - step / 2.0;
                 count_total++;
             }
