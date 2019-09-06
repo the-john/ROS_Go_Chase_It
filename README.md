@@ -15,6 +15,6 @@ AAAAAAAAAAAAAAAAAAAAAUUUUUUUUUUUUUUGHHHHHH!
 
 http://wiki.ros.org/rviz/Troubleshooting#Bad_Drawable
 
-O.K.  So it's been a few days of HELL and I finally got my ATT network service running at a half decent speed (what I've been paying them for all along).  Sooooo, back to the Udacity Workspace.  Finally got all the kinks worked out and everything running properly.  
+O.K.  So it's been a few days of HELL and I finally got my ATT network service running at a half decent speed (what I've been paying them for all along ... but I'm not bitter or anything).  Sooooo, back to the Udacity Workspace.  Finally got all the kinks worked out and everything running properly.  
 
 Hope some of this is helpful.
