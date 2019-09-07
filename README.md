@@ -2,7 +2,7 @@
 
 This was my first "real" attempt at doing something with ROS.  I've got to admit, it took some work to finally get everything working correctly.  So, if you're learning ROS ... stick to it.  It isn't going to give up easily!
 
-![](https://github.com/the-john/ROS_Go_Chase_It/blob/master/vokoscreen-2019-09-07_00-03-57.mkv)
+![Gazebo Video](https://github.com/the-john/ROS_Go_Chase_It/blob/master/vokoscreen-2019-09-07_00-03-57.mkv)
 
 ## NOTE:
 Initially I tried using the Udacity Workspace to get this thing going.  But my network connection (via ATT) was REALLY acting up and I wasn't able to get any real bandwidth for several days.  So, no biggie.  I'll just set up an environment on my laptop and run everything on it. 
